@@ -1,0 +1,9 @@
+git clone#下载克隆
+git init#初始化+git remote add origin +仓库地址 远程地址
+Git add .#代码提交到暂存区
+git commit -m"文字说明"#提交到仓库
+Git push#上传到远程仓库
+git pull #开发前提交完pull
+细粒度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
+经典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
+细粒度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
